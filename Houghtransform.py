@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 #This function performs a Hough transform on an image and produces an image with recognized lines
-#It also tries to remove duplicate images
+#It also tries to remove duplicate lines
 
 #parameters
 #+- slope threshold to remove duplicates
