@@ -11,7 +11,6 @@ from matplotlib import colors
 from matplotlib import cm
 
 class Feature_Extraction:
-    """Maintains and coordinates the game loop"""
 
     def __init__(self, img):
         """Initializes feature extraction elements by 
